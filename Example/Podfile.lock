@@ -1,0 +1,16 @@
+PODS:
+  - RZLauncher (0.0.1)
+
+DEPENDENCIES:
+  - RZLauncher (= 0.0.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - RZLauncher
+
+SPEC CHECKSUMS:
+  RZLauncher: fdfeb4540e042215dd8b087295601d5b078c3e00
+
+PODFILE CHECKSUM: 6d2e9d3e03c94fc0bcb8d1fd7080d48b5bd58ff8
+
+COCOAPODS: 1.10.0
